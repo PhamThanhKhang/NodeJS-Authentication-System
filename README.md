@@ -120,7 +120,7 @@ Kết quả test được lưu trong thư mục `public/result/`.
 ## 3. Đăng ký
 ![Register](public/result/register.png)
 
-### 3.1. Tài khoản đã tồn tại
+### 3.1.Đăng ký với Tài khoản đã tồn tại
 ![Register account exist](public/result/register_account_exist.png)
 
 ### 3.2. Đăng ký thành công
