@@ -107,31 +107,31 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 
 - [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
 
-Kết quả test được lưu trong thư mục `public/img/`.
+Kết quả test được lưu trong thư mục `public/result/`.
 ---
 
 
 ## 1. Đăng nhập
-![Login](public/img/login.png)
+![Login](public/result/login.png)
 
 ## 2. Đăng nhập với Google
-![Login with Google](public/img/login_withGoogle.png)
+![Login with Google](public/result/login_withGoogle.png)
 
 ## 3. Đăng ký
-![Register](public/img/register.png)
+![Register](public/result/register.png)
 
 ### 3.1. Tài khoản đã tồn tại
-![Register account exist](public/img/register_account_exist.png)
+![Register account exist](public/result/register_account_exist.png)
 
 ### 3.2. Đăng ký thành công
-![Register successfully](public/img/register_successfully.png)
+![Register successfully](public/result/register_successfully.png)
 
 ## 4. Trang chủ sau khi đăng nhập
-![Homepage after login](public/img/homepage_afterLogin.png)
+![Homepage after login](public/result/homepage_afterLogin.png)
 
 ## 5. Đổi mật khẩu
-![Change password](public/img/change_pass.png)
+![Change password](public/result/change_pass.png)
 
 ## 6. Kiểm tra database
-![Check database](public/img/check_database.png)
+![Check database](public/result/check_database.png)
 
